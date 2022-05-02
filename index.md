@@ -18,5 +18,3 @@ Eth classic.
   <a href="https://marketforum.boards.net/">  
     <input type="Submit"/>  
   </a>
-</body>
-</html>
