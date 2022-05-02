@@ -15,4 +15,10 @@ Eth classic.
 </body>
 </html>
 
-<button>Sample Button</button>
+<html>
+<body>
+  <a href="https://marketforum.boards.net/">  
+    <input type="submit"/>  
+  </a>
+</body>
+</html>
