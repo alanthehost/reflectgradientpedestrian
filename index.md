@@ -7,5 +7,13 @@
  We only accept crypto currency. You can request an order by
 Clicking the button.
 </p>
+body {
+        background-color: #8d8d8d;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin: 0 auto;
+        height: 100vh;
+      }
 </body>
 </html>
