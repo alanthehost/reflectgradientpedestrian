@@ -15,10 +15,12 @@ Eth classic.
 </body>
 </html>
 
-<html>
-<body>
-  <a href="https://marketforum.boards.net/">  
-    <input type="submit"/>  
-  </a>
-</body>
-</html>
+="http://www.google.com/">
+   <button>Visit Google</button>
+</a>
+or:
+
+<a href="http://www.google.com/">
+   <input type="button" value="Visit Google" />
+</a>
+It's simple and no javascript requir
