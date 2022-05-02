@@ -16,7 +16,7 @@ Eth classic.
 <html>
 <body>
   <a href="https://marketforum.boards.net/">  
-    <input type="Enter"/>  
+    <input type="Submit"/>  
   </a>
 </body>
 </html>
