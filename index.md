@@ -5,7 +5,7 @@
  We only accept crypto currency. You can request an order by
 Clicking the button.
 Cryptos we accept:
-Bitcoin
+Bitcoin: tetetrt
 Eth
 Dogecoin
 Eth classic.
