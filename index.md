@@ -14,3 +14,5 @@ Eth classic.
 </p>
 </body>
 </html>
+
+<button>Sample Button</button>
